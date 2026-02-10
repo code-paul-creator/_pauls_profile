@@ -1,8 +1,9 @@
 
 
-<h1 align="center">Hi,i'm Paulami Bhosle</h1>
-<h3 align="center">First-Year Bsc Computer Science Student</h3>
+<h1 align="center">Hi👋,i'm Paulami Bhosle</h1>
+<h3 align="center">🎓First-Year Bsc Computer Science Student</h3>
 
+<img align="right" alt="Coding" width="150" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=code-paul-creator&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
@@ -17,6 +18,7 @@ I focus on building solid fundamentals in core computer science subjects and app
 - 📜 **Data Science Certification** – Swayam (IIT Madras)
 - 💻 Interested in software development & data-driven technologies
 - 🌱 Continuously learning and improving
+- ⚡ Fun fact: **I debug more than I code 😄**
 
 ---
 
