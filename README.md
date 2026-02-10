@@ -72,12 +72,21 @@ I focus on building solid fundamentals in core computer science subjects and app
 
 ---
 
-<!--snake contribution-->
-![snake gif](https://raw.githubusercontent.com/code-paul-creator/_pauls_profile/main/github-contribution-grid-snake.gif)
-
 <p align="center">
 ⭐ *Learning today, building tomorrow — one commit at a time.*
 </p>
 
 
 
+
+
+
+
+
+<!--snake contribution-->
+![Snake animation](https://raw.githubusercontent.com/code-paul-creator/_pauls_profile/output/dist/github-contribution-grid-snake.gif)
+
+
+
+<!--snake contribution-->
+![Snake animation](https://raw.githubusercontent.com/code-paul-creator/_pauls_profile/output/dist/github-contribution-grid-snake.gif)
