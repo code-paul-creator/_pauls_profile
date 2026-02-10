@@ -2,7 +2,7 @@
 # _pauls_profile
 Hello world, this my profile.
 <h1 align="center">Hi 👋, I'm Paulami Bhosle</h1>
-<h3 align="center">🎓 First-Year BSc Computer Science Student</h3>
+<h2 align="center">🎓 First-Year Computer Science Student</h2>
 <h3 align="center">🚀 Developer | 💡 Learner | 🌍 Tech Explorer</h3>
 
 <p align="center">
