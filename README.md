@@ -78,11 +78,7 @@ I focus on building solid fundamentals in core computer science subjects and app
 
 ---
 
-<!-- 1) Simple relative Markdown image (works if the GIF is in the repo root or the path is correct) -->
-![Contribution Snake](./github-contribution-grid-snake.gif)
 
-<!-- 2) Clickable image that opens the raw GIF in a new tab -->
-[![Contribution Snake](./github-contribution-grid-snake.gif)](https://raw.githubusercontent.com/code-paul-creator/_pauls_profile/3de118cadcb09c0ce0d1419c2aa336e6a438e981/github-contribution-grid-snake.gif)
 
 <!-- 3) Use HTML if you want to control the displayed size -->
 <p align="center">
