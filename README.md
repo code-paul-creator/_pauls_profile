@@ -4,10 +4,6 @@ Hello world, this my profile.
 
 <!-- Professional GitHub Profile README -->
 
-<!-- Snake Contribution Graph -->
-  ![snake gif]
-  (https://github.com/code-paul-creator/code-paul-creator/blob/output/github-contribution-grid-snake.gif)
-
 <h1 align="center">Hi 👋, I'm Paulami</h1>
 <h2 align="center">🎓 First-Year Computer Science Student</h2>
 
