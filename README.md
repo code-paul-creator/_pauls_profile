@@ -76,17 +76,23 @@ I focus on building solid fundamentals in core computer science subjects and app
 ⭐ *Learning today, building tomorrow — one commit at a time.*
 </p>
 
+---
+
+<!-- 1) Simple relative Markdown image (works if the GIF is in the repo root or the path is correct) -->
+![Contribution Snake](./github-contribution-grid-snake.gif)
+
+<!-- 2) Clickable image that opens the raw GIF in a new tab -->
+[![Contribution Snake](./github-contribution-grid-snake.gif)](https://raw.githubusercontent.com/code-paul-creator/_pauls_profile/3de118cadcb09c0ce0d1419c2aa336e6a438e981/github-contribution-grid-snake.gif)
+
+<!-- 3) Use HTML if you want to control the displayed size -->
+<p align="center">
+  <img src="./github-contribution-grid-snake.gif" alt="Contribution Snake" width="600"/>
+</p>
+
+<!-- 4) Use a raw.githubusercontent.com URL (stable when pinned to a commit SHA) -->
+![Contribution Snake](https://raw.githubusercontent.com/code-paul-creator/_pauls_profile/3de118cadcb09c0ce0d1419c2aa336e6a438e981/github-contribution-grid-snake.gif)
 
 
 
 
 
-
-
-<!--snake contribution-->
-![Snake animation](https://raw.githubusercontent.com/code-paul-creator/_pauls_profile/output/dist/github-contribution-grid-snake.gif)
-
-
-
-<!--snake contribution-->
-![Snake animation](https://raw.githubusercontent.com/code-paul-creator/_pauls_profile/output/dist/github-contribution-grid-snake.gif)
