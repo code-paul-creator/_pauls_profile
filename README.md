@@ -1,7 +1,8 @@
 ### Hi there
 # _pauls_profile
 Hello world, this my profile.
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Paulami Bhosle</h1>
+<h3 align="center">🎓 First-Year BSc Computer Science Student</h3>
 <h3 align="center">🚀 Developer | 💡 Learner | 🌍 Tech Explorer</h3>
 
 <p align="center">
@@ -13,14 +14,33 @@ Hello world, this my profile.
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **cool projects**
 - 🌱 I’m learning **Web / AI / Open Source**
-- 💬 Ask me about **JavaScript, Python, Git**
+- 💬 Ask me about **Html, Python, Git**
 - ⚡ Fun fact: **I debug more than I code 😄**
 
 ---
 
-### 🛠️ Tech Stack
+
+### 👨‍🎓 About Me
+- 🎓 First-year **Computer Science** student  
+- 💻 Familiar with **Programming, Databases & Core CS Subjects**
+- 📜 Completed **Data Science Certification**  
+  *(Swayam Portal – IIT Madras)*
+- 🌱 Currently strengthening my **CS fundamentals**
+- ⚡ Curious learner who enjoys coding and problem-solving
+
+---
+
+### 📚 Core Subjects
+- 🧠 Fundamentals of Computing (FOC)
+- 🧮 Discrete Mathematics (DM)
+- 💾 Database Management Systems (DBMS)
+- 🖥️ Operating Systems (OS)
+
+---
+
+### 🛠️ Technical Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github" />
 </p>
 
 ---
@@ -33,23 +53,28 @@ Hello world, this my profile.
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=6"/>
-</p>
+### 🏆 Certifications
+- 🥇 **Data Science Course**  
+  📍 *Swayam Portal – IIT Madras*
+
+---
+
+### 🌱 Currently Learning
+- Advanced Python
+- SQL & Database Design
+- Data Structures & Algorithms
+- Web Development Projects
 
 ---
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/paulami-bhosle-1622b7394?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
 
 ---
 
-⭐ **If you like my work, consider starring my repositories!**
+⭐ *Learning today, building tomorrow — one commit at a time.*
+
