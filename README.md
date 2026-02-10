@@ -1,74 +1,53 @@
 ### Hi there
 # _pauls_profile
 Hello world, this my profile.
-<h1 align="center">Hi 👋, I'm Paulami Bhosle</h1>
-<h2 align="center">🎓 First-Year Computer Science Student</h2>
-<h3 align="center">🚀 Developer | 💡 Learner | 🌍 Tech Explorer</h3>
 
+<!-- Professional GitHub Profile README -->
+
+<!-- Snake Contribution Graph -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://github.com/code-paul-creator/code-paul-creator/blob/output/github-contribution-grid-snake.svg" alt="github contribution snake animation" />
 </p>
 
----
+<h1 align="center">Hi 👋, I'm Paulami</h1>
+<h2 align="center">🎓 First-Year Computer Science Student</h2>
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **cool projects**
-- 🌱 I’m learning **Web / AI / Open Source**
-- 💬 Ask me about **Html, Python, Git**
-- ⚡ Fun fact: **I debug more than I code 😄**
 
 ---
 
+### 👤 About Me
+I am a first-year **BSc Computer Science** student with a strong interest in programming, databases, and data science.  
+I focus on building solid fundamentals in core computer science subjects and applying them through practical coding.
 
-### 👨‍🎓 About Me
-- 🎓 First-year **Computer Science** student  
-- 💻 Familiar with **Programming, Databases & Core CS Subjects**
-- 📜 Completed **Data Science Certification**  
-  *(Swayam Portal – IIT Madras)*
-- 🌱 Currently strengthening my **CS fundamentals**
-- ⚡ Curious learner who enjoys coding and problem-solving
+- 🎓 BSc Computer Science (1st Year)
+- 📜 **Data Science Certification** – Swayam (IIT Madras)
+- 💻 Interested in software development & data-driven technologies
+- 🌱 Continuously learning and improving
 
 ---
 
-### 📚 Core Subjects
-- 🧠 Fundamentals of Computing (FOC)
-- 🧮 Discrete Mathematics (DM)
-- 💾 Database Management Systems (DBMS)
-- 🖥️ Operating Systems (OS)
+### 📘 Core Subjects
+- Fundamentals of Computing (FOC)
+- Discrete Mathematics (DM)
+- Database Management Systems (DBMS)
+- Operating Systems (OS)
+- MySQL
+- Hpertext Markup language (HTML)
+- PHP
+- Pyhton
 
 ---
 
 ### 🛠️ Technical Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,github" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+
+### 🔗 Connect With Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165"/>
-</p>
-
----
-
-### 🏆 Certifications
-- 🥇 **Data Science Course**  
-  📍 *Swayam Portal – IIT Madras*
-
----
-
-### 🌱 Currently Learning
-- Advanced Python
-- SQL & Database Design
-- Data Structures & Algorithms
-- Web Development Projects
-
----
-
-### 🌐 Connect With Me
-<p align="left">
   <a href="https://www.linkedin.com/in/paulami-bhosle-1622b7394?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -76,5 +55,8 @@ Hello world, this my profile.
 
 ---
 
+<p align="center">
+ 
 ⭐ *Learning today, building tomorrow — one commit at a time.*
+</p>
 
