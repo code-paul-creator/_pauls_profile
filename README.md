@@ -3,7 +3,6 @@
 <h1 align="center">Hi👋,i'm Paulami Bhosle</h1>
 <h3 align="center">🎓First-Year Bsc Computer Science Student</h3>
 
-<img align="right" alt="Coding" width="150" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=code-paul-creator&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
@@ -13,6 +12,7 @@
 ### 👤 About Me
 I am a first-year **Computer Science** student with a strong interest in programming, databases, and data science.  
 I focus on building solid fundamentals in core computer science subjects and applying them through practical coding.
+<img align="right" alt="Coding" width="150" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
 
 - 🎓 Computer Science (1st Year)
 - 📜 **Data Science Certification** – Swayam (IIT Madras)
@@ -23,11 +23,13 @@ I focus on building solid fundamentals in core computer science subjects and app
 ---
 
 ### 📘 Core Subjects
+
 - Fundamentals of Computing (FOC)
+   <img align="right" alt="Coding" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JoOTRhZTZ2NzRsODFtcXVidm9sZ2JqMTN3MW1jaWZyNnlyYmtlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif">
 - Discrete Mathematics (DM)
 - Database Management Systems (DBMS)
-- Operating Systems (OS)
 - Python
+- Operating Systems (OS)
 - Hypertext Markup Language (HTML)
 - Javascript/CSS
 - PHP
@@ -38,6 +40,8 @@ I focus on building solid fundamentals in core computer science subjects and app
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,github" />
 </p>
+
+<hr>
 
 ### ✨ GitHub Stats
 <p align="center">
