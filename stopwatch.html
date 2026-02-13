@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Stylish Stopwatch</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .container {
+      background: #fff;
+      padding: 30px;
+      border-radius: 15px;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+      text-align: center;
+    }
+    .stopwatch {
+      font-size: 50px;
+      margin-bottom: 20px;
+      color: #333;
+    }
+    button {
+      width: 100px;
+      height: 40px;
+      margin: 10px;
+      font-size: 18px;
+      border: none;
+      border-radius: 8px;
+      background: #ff9a9e;
+      color: #fff;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+    button:hover {
+      background: #fad0c4;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Stopwatch</h1>
+    <div class="stopwatch" id="display">00:00:00</div>
+    <button onclick="start()">Start</button>
+    <button onclick="stop()">Stop</button>
+    <button onclick="reset()">Reset</button>
+  </div>
+
+  <script>
+    let timer;
+    let seconds = 0, minutes = 0, hours = 0;
+
+    function updateDisplay() {
+      let h = String(hours).padStart(2, '0');
+      let m = String(minutes).padStart(2, '0');
+      let s = String(seconds).padStart(2, '0');
+      document.getElementById("display").innerText = `${h}:${m}:${s}`;
+    }
+
+    function start() {
+      if (!timer) {
+        timer = setInterval(() => {
+          seconds++;
+          if (seconds === 60) { seconds = 0; minutes++; }
+          if (minutes === 60) { minutes = 0; hours++; }
+          updateDisplay();
+        }, 1000);
+      }
+    }
+
+    function stop() {
+      clearInterval(timer);
+      timer = null;
+    }
+
+    function reset() {
+      stop();
+      seconds = 0; minutes = 0; hours = 0;
+      updateDisplay();
+    }
+  </script>
+</body>
+</html>
