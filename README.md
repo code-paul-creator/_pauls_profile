@@ -80,8 +80,5 @@ I focus on building solid fundamentals in core computer science subjects and app
 
 
 
-https://raw.githubusercontent.com/code-paul-creator/_pauls_profile/output/github-snake.svg
-
-
 
 
