@@ -79,12 +79,6 @@ I focus on building solid fundamentals in core computer science subjects and app
 ---
 
 
-
-<!-- 3) Use HTML if you want to control the displayed size -->
-<p align="center">
-  <img src="./github-contribution-grid-snake.gif" alt="Contribution Snake" width="600"/>
-</p>
-
 <!-- 4) Use a raw.githubusercontent.com URL (stable when pinned to a commit SHA) -->
 ![Contribution Snake](https://raw.githubusercontent.com/code-paul-creator/_pauls_profile/3de118cadcb09c0ce0d1419c2aa336e6a438e981/github-contribution-grid-snake.gif)
 
