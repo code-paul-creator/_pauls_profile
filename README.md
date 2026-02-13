@@ -80,7 +80,7 @@ I focus on building solid fundamentals in core computer science subjects and app
 
 
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/code-paul-creator/_pauls_profile/output/github-snake-dark.svg#gh-dark-mode-only)
+![Contribution Snake Dark](https://raw.githubusercontent.com/code-paul-creator/_pauls_profile/output/github-snake-dark.svg#gh-dark-mode-only)
 
 
 
