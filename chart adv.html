@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(to right, #f0f4f8, #d9e4ec);
+      text-align: center;
+      margin: 20px;
+    }
+
+    h2 {
+      color: #333;
+      margin-bottom: 15px;
+    }
+
+    table {
+      width: 70%;
+      margin: 20px auto;
+      border-collapse: collapse;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      border-radius: 8px;
+      overflow: hidden;
+      border-collapse: separate;
+    }
+
+    th, td {
+      padding: 12px;
+      text-align: center;
+      font-size: 16px;
+    }
+
+    th {
+      background-color: #4a90e2;
+      color: white;
+    }
+
+    .why {
+      background-color: #c8f7c5; /* soft green */
+      transition: background-color 0.3s;
+    }
+
+    .whynot {
+      background-color: #f7c5c5; /* soft red */
+      transition: background-color 0.3s;
+    }
+
+    .why:hover {
+      background-color: #a5e6a3;
+    }
+
+    .whynot:hover {
+      background-color: #e6a3a3;
+    }
+
+    input {
+      padding: 10px;
+      margin: 5px;
+      width: 220px;
+      border: 2px solid #4a90e2;
+      border-radius: 5px;
+      outline: none;
+    }
+
+    input:focus {
+      border-color: #2c6fb2;
+      box-shadow: 0 0 5px rgba(74,144,226,0.5);
+    }
+
+    button {
+      padding: 10px 20px;
+      margin: 5px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-weight: bold;
+      transition: transform 0.2s, background-color 0.3s;
+    }
+
+    button:hover {
+      transform: scale(1.05);
+    }
+
+    .add-btn {
+      background-color: #4a90e2;
+      color: white;
+    }
+
+    .reset-btn {
+      background-color: #e94e77;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <h2>✨ Why and Why Not Chart ✨</h2>
+
+  <!-- Input fields -->
+  <input type="text" id="whyInput" placeholder="Enter Why reason">
+  <input type="text" id="whynotInput" placeholder="Enter Why Not reason">
+  <button class="add-btn" onclick="addRow()">Add</button>
+  <button class="reset-btn" onclick="resetTable()">Reset</button>
+
+  <!-- Table -->
+  <table id="chartTable">
+    <tr>
+      <th>Why ✅</th>
+      <th>Why Not ❌</th>
+    </tr>
+  </table>
+
+  <script>
+    function addRow() {
+      const why = document.getElementById("whyInput").value;
+      const whynot = document.getElementById("whynotInput").value;
+
+      if (why === "" && whynot === "") {
+        alert("Please enter at least one reason!");
+        return;
+      }
+
+      const table = document.getElementById("chartTable");
+      const row = table.insertRow(-1);
+
+      const whyCell = row.insertCell(0);
+      const whynotCell = row.insertCell(1);
+
+      whyCell.innerHTML = why;
+      whynotCell.innerHTML = whynot;
+
+      whyCell.className = "why";
+      whynotCell.className = "whynot";
+
+      // Clear inputs after adding
+      document.getElementById("whyInput").value = "";
+      document.getElementById("whynotInput").value = "";
+    }
+
+    function resetTable() {
+      const table = document.getElementById("chartTable");
+      table.innerHTML = "<tr><th>Why ✅</th><th>Why Not ❌</th></tr>";
+    }
+  </script>
+</body>
+</html>
